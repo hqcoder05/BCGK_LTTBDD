@@ -8,7 +8,6 @@ Dự án này là tập hợp các bài thực hành xây dựng ứng dụng De
 * **Họ và tên:** [Hoàng Nguyễn Viết Quốc]
 * **Mã số sinh viên:** [045205000541]
 * **Lớp/Học phần:** [LTTBDD-316]
-* **Ngày nộp:** [Ngày/Tháng/Năm]
 
 ## 📋 Yêu cầu hệ thống (Prerequisites)
 Dựa trên cấu hình `pom.xml` của dự án:
